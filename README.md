@@ -1,4 +1,5 @@
 🖳 Tip Calculator 🖳
+
 This Python-based Tip Calculator assists users in determining the amount each individual should contribute when splitting a bill, including the tip. 
 
 Features
